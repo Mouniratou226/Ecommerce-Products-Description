@@ -1,0 +1,16 @@
+﻿# Fichiers de variables d'environnement (CLÉS SECRÈTES)
+.env
+.env.local
+
+# Dossiers et fichiers Python générés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels Python
+venv/
+env/
+
+# Éditeurs et IDE
+.vscode/
